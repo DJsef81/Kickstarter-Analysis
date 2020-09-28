@@ -4,10 +4,11 @@ Performing analysis on Kickstarter data to uncover trends
 #Purpose and Background of Project
 
 Our client, Louise produced a play Fever that she used Kickstarter for to try and fund it’s production, and it came close to its fundraising goal in a short amount of time. 
+
 Moving forward,  she would like to know how other Kickstarter campaigns fared, specifically, in relation to their launch dates and their funding goals. Answering these questions is the purpose of this analysis so that when Louise plans her next Kickstarter campaign, she will hopefully be able to take that information and ensure that her next campaign will be as successful as possible.
 
 By using the Kickstarter dataset and through the use of pivot tables and graphs, we set out to both;
-  - visualize how campaign outcomes (those that were successful, those that failed, and those that were cancelled) are affected by when they were launchd. 
+  - visualize how campaign outcomes (those that were successful, those that failed, and those that were cancelled) are affected by when they were l l       launched. 
   - visualize how the percentages of successful, failed, and cancelled plays are based on the set funding goal amounts. 
 
 #Analysis and Challenges 
